@@ -1,8 +1,6 @@
 ## Fancy seeing you here! 👋
 
-I am Oyero Habib, people call me Habib, currently pursuing my bachelor's degree majoring in computer science and Industrial Chemistry from [The Univesity of People](http://uopeople.edu/) and [The Univesity of Ibadan](https://www.ui.edu.ng/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habibulah-oyero-44069a193/)](https://www.linkedin.com/in/habibulah-oyero-44069a193/)
+I am Oyero Habib, people call me Habib, currently pursuing my bachelor's degree majoring in computer science and Industrial Chemistry from [The Univesity of People](http://uopeople.edu/) and [The Univesity of Ibadan](https://www.ui.edu.ng/) respectively. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 ## ⚡ Technologies
 
@@ -20,9 +18,6 @@ I am Oyero Habib, people call me Habib, currently pursuing my bachelor's degree 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=oyerohabib&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyerohabib&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oyerohabib.aemmadi)
