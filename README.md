@@ -1,6 +1,6 @@
 ## Fancy seeing you here! 👋
 
-I am Oyero Habib, people call me Habib, currently pursuing my bachelor's degree majoring in computer science and Industrial Chemistry from [The Univesity of People](http://uopeople.edu/) and [The Univesity of Ibadan](https://www.ui.edu.ng/) respectively. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+I am habib, currently pursuing my bachelor's degree majoring in computer science and Industrial Chemistry from [The Univesity of People](http://uopeople.edu/) and [The Univesity of Ibadan](https://www.ui.edu.ng/) respectively. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to reach out to me for any collaboration, I would be glad to help.
 
 ## ⚡ Technologies
 
