@@ -1,8 +1,3 @@
-<p align="center"><kbd><img height="150" width="150" src="https://raw.githubusercontent.com/oyerohabib/oyerohabib/main/oyerohabib.jpg" style="border-radius: 50%; overflow: hidden; border: 1px solid black;" /></kbd></p>
-<h3 align="center">Oyero Habib</h3>
-<p align="center">4+ years. | Full Stack Developer | Critical Thinker<br/>
-Website: http://oyerotech.herokuapp.com/<br/>
-
 <h3 align="center">A little about me</h3>
 <p align="center">I am habib, currently pursuing my bachelor's degree majoring in computer science and Industrial Chemistry from [The Univesity of People](http://uopeople.edu/) and [The Univesity of Ibadan](https://www.ui.edu.ng/) respectively. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to reach out to me for any collaboration, I would be glad to help.</p>
 
@@ -51,7 +46,7 @@ Website: http://oyerotech.herokuapp.com/<br/>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<h3 align="center">Cloud Services</h3>
+<h3 align="center">⚡Cloud Services</h3>
 <p align="center">
 
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -61,7 +56,7 @@ Website: http://oyerotech.herokuapp.com/<br/>
  
 </p>
 
-<h3 align="center">My Machines</h3>
+<h3 align="center">⚡My Machines</h3>
 <p align="center">
 
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -73,13 +68,11 @@ Website: http://oyerotech.herokuapp.com/<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=oyerohabib&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyerohabib&hide=TeX&layout=compact)
 
-<h3 align="center">Contact</h3>
+<h3 align="center">⚡Contact</h3>
 <p align="center">
 <a href="https://facebook.com/habib.oyero/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/oyerohabib/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@matnex.mix"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
-<a href="https://twitter.com/HabibOyero"><img alt="Twitter" src="https://img.shields.io/badge/twitter/url?style=social&url=oyerohabib&logo=Twitter&logoColor=white" /></a>
+<a href="https://twitter.com/HabibOyero"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://wa.me/+2347019951241"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
-
-<p align="center">&copy; Oyero Habib <script>new Date().getYear()</script>.</p>
