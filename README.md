@@ -78,7 +78,7 @@ Website: http://oyerotech.herokuapp.com/<br/>
 <a href="https://facebook.com/habib.oyero/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/oyerohabib/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@matnex.mix"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
-<a href="https://twitter.com/HabibOyero"><img alt="Twitter" src="https://img.shields.io/badge/@techlavang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://twitter.com/HabibOyero"><img alt="Twitter" src="https://img.shields.io/badge/twitter/url?style=social&url=oyerohabib&logo=Twitter&logoColor=white" /></a>
 <a href="https://wa.me/+2347019951241"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
