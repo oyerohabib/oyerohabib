@@ -1,5 +1,11 @@
-<h3 align="center">Who Am I</h3>
-<p align="center">I am habib, currently pursuing my bachelor's degree majoring in computer science and Industrial Chemistry from <a href="http://uopeople.edu/">The Univesity of People</a> and <a href="https://www.ui.edu.ng/">The Univesity of Ibadan</a> respectively. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to reach out to me for any collaboration, I would be glad to help.</p>
+<h3 align="center">About Me</h3>
+<p align="center">Hi, I'm Habib, a self taught full-stack developer with a passion for bringing ideas to live. I'm currently living in Ibadan, Nigeria. I'm an absolute geek and love geeking out on all things as a full-stack developer.
+
+ I enjoy the challenge that comes with developing friendly User Interface, creating functionalities that suits user’s need and I’m constantly learning better ways to improve my skills while performing at my best in any team I join. I adapt quickly and I’m always eager to learn new tricks on better ways to create simple solutions to complex problems.
+
+With more than three years of experience and 100+ successful projects, I have gotten a good knowledge and implementation in different languages, frameworks, and libraries, some of which includes HTML, CSS, JavaScript, jQuery, ReactJS, Material-UI, Bootstrap, Python, Django, API's, Flutter, PostgreSQL, MySQL, SQLITE, Git, Github, Firebase, Redux etc.
+
+Values I hold high are loyalty, reliability, authenticity and helping other achieve their success, which is why I see projects through to the end and deliver top-notch services. I am always open to collaborating on projects and innovative/disruptive ideas.</p>
 
 <h3 align="center">⚡Programming Languages</h3>
 <p align="center">
