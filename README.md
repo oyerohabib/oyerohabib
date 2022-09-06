@@ -13,8 +13,8 @@ I am happy to connect with like minds, and high-quality people to work together 
 
 Thank you.</p>
 
-<h3 align="center">⚡Programming Languages</h3>
-<p align="center">
+<h3 align="left">⚡Programming Languages</h3>
+<p align="left">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -22,8 +22,8 @@ Thank you.</p>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-<h3 align="center">⚡Tools & Technologies</h3>
-<p align="center">
+<h3 align="left">⚡Tools & Technologies</h3>
+<p align="left">
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
@@ -51,8 +51,8 @@ Thank you.</p>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<h3 align="center">⚡Cloud Services</h3>
-<p align="center">
+<h3 align="left">⚡Cloud Services</h3>
+<p align="left">
 
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
@@ -62,8 +62,8 @@ Thank you.</p>
  
 </p>
 
-<h3 align="center">⚡My Machines</h3>
-<p align="center">
+<h3 align="left">⚡My Machines</h3>
+<p align="left">
 
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
@@ -74,8 +74,8 @@ Thank you.</p>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=oyerohabib&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyerohabib&hide=TeX&layout=compact)
 
-<h3 align="center">⚡Connect With Me On</h3>
-<p align="center">
+<h3 align="left">⚡Connect With Me On</h3>
+<p align="left">
 <a href="https://facebook.com/habib.oyero/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/oyerohabib/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/HabibOyero"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
