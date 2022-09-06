@@ -1,16 +1,20 @@
 <h3 align="center">About Me</h3>
-<p align="center">Hi, I'm Habib, a self taught full-stack developer with a passion for bringing ideas to live. I'm currently living in Ibadan, Nigeria. I'm an absolute geek and love geeking out on all things as a full-stack developer.
+<p align="left">Good day and Welcome to my profile, 
 
- I enjoy the challenge that comes with developing friendly User Interface, creating functionalities that suits user’s need and I’m constantly learning better ways to improve my skills while performing at my best in any team I join. I adapt quickly and I’m always eager to learn new tricks on better ways to create simple solutions to complex problems.
+I'm Habib, a self-taught full-stack developer (heavy on the front end) with a passion for bringing ideas to life. 
 
-With more than three years of experience and 100+ successful projects, I have gotten a good knowledge and implementation in different languages, frameworks, and libraries, some of which includes HTML, CSS, JavaScript, jQuery, ReactJS, Material-UI, Bootstrap, Python, Django, API's, Flutter, PostgreSQL, MySQL, SQLITE, Git, Github, Firebase, Redux etc.
+I enjoy the challenge that comes with developing a friendly User Interface and creating functionalities that suit users’ needs and I’m constantly learning better ways to improve my skills while performing at my best in any team I join. I adapt quickly and I’m always eager to learn new tricks on better ways to create simple solutions to complex problems.
 
-Values I hold high are loyalty, reliability, authenticity and helping other achieve their success, which is why I see projects through to the end and deliver top-notch services. I am always open to collaborating on projects and innovative/disruptive ideas.</p>
+With about 5 years of experience and several successful projects in diverse fields, I have achieved a high level of experience and real-world implementation of different languages, frameworks, and libraries, some of which include HTML, CSS, JavaScript, JQuery, ReactJS, Material-UI, tailwind CSS, state management, Bootstrap, Python, Django, API's integration, Flutter, PostgreSQL, MySQL, SQLite, Git, GitHub, Firebase, Redux, and many more.
+
+Values I hold high are honesty, kindness, reliability, hard work, smart work, and helping others achieve their goals, which is why I see projects through to the end and deliver top-notch services.
+
+I am happy to connect with like minds, and high-quality people to work together and achieve success.
+
+Thank you.</p>
 
 <h3 align="center">⚡Programming Languages</h3>
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -24,7 +28,6 @@ Values I hold high are loyalty, reliability, authenticity and helping other achi
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
@@ -42,11 +45,7 @@ Values I hold high are loyalty, reliability, authenticity and helping other achi
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
  <br/>
-<img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
  <br/>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -59,6 +58,7 @@ Values I hold high are loyalty, reliability, authenticity and helping other achi
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+<img alt="GCP" src="https://img.shields.io/badge/gcp-%23000000.svg?style=for-the-badge&logo=gcp&logoColor=#00C7B7" />
  
 </p>
 
