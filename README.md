@@ -191,6 +191,8 @@
 Stats](https://github-readme-stats.vercel.app/api?username=oyerohabib&count_private=true&show_icons=true&include_all_commits=true)
 ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyerohabib&hide=TeX&layout=compact)
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ubaydah&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="center">⚡Connect With Me On</h3>
 <p align="center">
