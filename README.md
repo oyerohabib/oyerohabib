@@ -2,13 +2,17 @@
 <div align="center">
 <p>Hello and welcome to my profile!</p>
 
-<p>I am Habib, a self-taught full-stack developer with a focus on front-end development. I am passionate about turning ideas into reality and creating user-friendly interfaces and functionalities that meet users' needs.</p>
+<pre>
+I'm Habib, a seasoned software engineer with a passion for bringing creative ideas to life. With over 5 years of experience in front-end engineering. I bring a unique blend of technical know-how and project management skills to the table.
 
-<p>With 5 years of experience and a portfolio of successful projects across various industries, I have developed a broad range of technical skills, including HTML, CSS, JavaScript, JQuery, ReactJS, Material-UI, Tailwind CSS, state management, Bootstrap, Python, Django, API integration, React Native, PostgreSQL, MySQL, SQLite, Git, GitHub, Firebase, and Redux. </p>
+As a front-end specialist, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, NextJS, and Tailwind CSS, and a keen eye for creating engaging and user-friendly interfaces. I also have a strong foundation in cloud technologies, containerization, and deployment automation, with Docker and AWS.
 
-<p>I am committed to delivering top-notch services and seeing projects through to completion. I am always open to connecting with like-minded individuals and building meaningful relationships in my professional network.</p>
+I believe that integrity, hard work, and a passion for delivering high-quality solutions are just as important as technical expertise. Whether working independently or as part of a team, I always strive to bring my best and exceed expectations.
 
-<p>Thank you for taking the time to visit my profile.</p>
+I have a proven track record of delivering successful projects in a wide range of fields, from simple websites to complex web and mobile applications. Utilizing technologies such as Python, Django, React Native, Firebase, and more, I am committed to providing my clients with efficient, effective, and top-notch solutions.
+
+So if you're looking for a dedicated problem-solver with a passion for excellence, let's connect and create something amazing together.
+</pre>
 </div>
 
 <h3 align="center">⚡Programming Languages</h3>
