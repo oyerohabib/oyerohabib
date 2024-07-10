@@ -1,5 +1,5 @@
-<h2 align="center">About Me</h2>
-<div align="center">
+<h2 align="left">About Me</h2>
+<div align="left">
 <p>Hello and welcome to my profile!</p>
 
 <p>I'm Habib, a seasoned software engineer with a passion for bringing creative ideas to life. With over 5 years of experience in front-end engineering. I bring a unique blend of technical know-how and project management skills to the table.</p>
