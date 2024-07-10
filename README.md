@@ -2,17 +2,15 @@
 <div align="center">
 <p>Hello and welcome to my profile!</p>
 
-<pre>
-I'm Habib, a seasoned software engineer with a passion for bringing creative ideas to life. With over 5 years of experience in front-end engineering. I bring a unique blend of technical know-how and project management skills to the table.
+<p>I'm Habib, a seasoned software engineer with a passion for bringing creative ideas to life. With over 5 years of experience in front-end engineering. I bring a unique blend of technical know-how and project management skills to the table.</p>
 
-As a front-end specialist, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, NextJS, and Tailwind CSS, and a keen eye for creating engaging and user-friendly interfaces. I also have a strong foundation in cloud technologies, containerization, and deployment automation, with Docker and AWS.
+<p>As a front-end specialist, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, NextJS, and Tailwind CSS, and a keen eye for creating engaging and user-friendly interfaces. I also have a strong foundation in cloud technologies, containerization, and deployment automation, with Docker and AWS.</p>
 
-I believe that integrity, hard work, and a passion for delivering high-quality solutions are just as important as technical expertise. Whether working independently or as part of a team, I always strive to bring my best and exceed expectations.
+<p>I believe that integrity, hard work, and a passion for delivering high-quality solutions are just as important as technical expertise. Whether working independently or as part of a team, I always strive to bring my best and exceed expectations.</p>
 
-I have a proven track record of delivering successful projects in a wide range of fields, from simple websites to complex web and mobile applications. Utilizing technologies such as Python, Django, React Native, Firebase, and more, I am committed to providing my clients with efficient, effective, and top-notch solutions.
+<p>I have a proven track record of delivering successful projects in a wide range of fields, from simple websites to complex web and mobile applications. Utilizing technologies such as Python, Django, React Native, Firebase, and more, I am committed to providing my clients with efficient, effective, and top-notch solutions.</p>
 
-So if you're looking for a dedicated problem-solver with a passion for excellence, let's connect and create something amazing together.
-</pre>
+<p>So if you're looking for a dedicated problem-solver with a passion for excellence, let's connect and create something amazing together.</p>
 </div>
 
 <h3 align="center">⚡Programming Languages</h3>
