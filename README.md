@@ -4,7 +4,7 @@
 
 <p>I'm Habib, a seasoned software engineer with a passion for bringing creative ideas to life. With over 5 years of experience in front-end engineering. I bring a unique blend of technical know-how and project management skills to the table.</p>
 
-<p>As a front-end specialist, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, NextJS, and Tailwind CSS, and a keen eye for creating engaging and user-friendly interfaces. I also have a strong foundation in cloud technologies, containerization, and deployment automation, with Docker and AWS.</p>
+<p>As a front-end specialist, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, NextJS, TypeScript, Redux, Tailwind CSS, React Native, and many other technologies in the React ecosystem. I also have a keen eye for creating engaging and user-friendly interfaces. I have a strong foundation in cloud technologies, containerization, and deployment automation, with Docker and AWS.</p>
 
 <p>I believe that integrity, hard work, and a passion for delivering high-quality solutions are just as important as technical expertise. Whether working independently or as part of a team, I always strive to bring my best and exceed expectations.</p>
 
