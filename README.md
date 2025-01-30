@@ -1,14 +1,14 @@
 <h2 align="left">About Me</h2>
 <div align="left">
-<p>Hello and welcome to my profile!</p>
+<p>Hi, Welcome to my profile.</p>
 
-<p>I'm Habib, a seasoned software engineer with a passion for bringing creative ideas to life. With over 5 years of experience in front-end engineering. I bring a unique blend of technical know-how and project management skills to the table.</p>
+<p>I'm Habib, an experienced Software Engineer with a passion for bringing creative ideas to life. With over 5 years of experience in Software Development and experience in frontend, backend, and mobile development, I bring a unique blend of skills to any team I work with.</p>
 
-<p>As a front-end specialist, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, NextJS, TypeScript, Redux, Tailwind CSS, React Native, and many other technologies in the React ecosystem. I also have a keen eye for creating engaging and user-friendly interfaces. I have a strong foundation in cloud technologies, containerization, and deployment automation, with Docker and AWS.</p>
+<p>I have a deep understanding of technologies such as ReactJS, NextJS, Redux, NodeJS, TypeScript, Express, React Native, Python, and many more technologies. I also have a strong foundation in cloud technologies, containerization, and deployment automation with Docker and AWS.</p>
 
 <p>I believe that integrity, hard work, and a passion for delivering high-quality solutions are just as important as technical expertise. Whether working independently or as part of a team, I always strive to bring my best and exceed expectations.</p>
 
-<p>I have a proven track record of delivering successful projects in a wide range of fields, from simple websites to complex web and mobile applications. Utilizing technologies such as Python, Django, React Native, Firebase, and more, I am committed to providing my clients with efficient, effective, and top-notch solutions.</p>
+<p>I have a proven track record of delivering successful projects in a wide range of fields, from simple websites to complex web and mobile applications. I am committed to providing my clients with efficient, effective, and top-notch solutions.</p>
 
 <p>So if you're looking for a dedicated problem-solver with a passion for excellence, let's connect and create something amazing together.</p>
 </div>
