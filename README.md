@@ -1,10 +1,8 @@
 <h2 align="left">About Me</h2>
 <div align="left">
-<p>Hi, Welcome to my profile.</p>
+<p>Hi, I'm Habib, an experienced Software Engineer with a passion for bringing creative ideas to life. With over 5 years of experience in Software Development and experience in frontend, backend, and mobile development, I bring a unique blend of skills to any team I work with.</p>
 
-<p>I'm Habib, an experienced Software Engineer with a passion for bringing creative ideas to life. With over 5 years of experience in Software Development and experience in frontend, backend, and mobile development, I bring a unique blend of skills to any team I work with.</p>
-
-<p>I have a deep understanding of technologies such as ReactJS, NextJS, Redux, NodeJS, TypeScript, Express, React Native, Python, and many more technologies. I also have a strong foundation in cloud technologies, containerization, and deployment automation with Docker and AWS.</p>
+<p>I have a deep understanding of technologies such as ReactJS, NextJS, Redux, NodeJS, TypeScript, Express, NestJS React Native, Python, and FastAPI. I also have a strong foundation in cloud technologies, containerization, and deployment automation with GitHub Actions, Docker and AWS.</p>
 
 <p>I believe that integrity, hard work, and a passion for delivering high-quality solutions are just as important as technical expertise. Whether working independently or as part of a team, I always strive to bring my best and exceed expectations.</p>
 
