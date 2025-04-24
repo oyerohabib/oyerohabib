@@ -1,8 +1,13 @@
-<h2 align="left">About Me</h2>
-<div align="left">
-<p>Hi, I'm Habib, an experienced Software Engineer with a passion for bringing creative ideas to life. With over 5 years of experience in Software Development and experience in frontend, backend, and mobile development, I bring a unique blend of skills to any team I work with.</p>
+### Hi there 👋
 
-<p>I have a deep understanding of technologies such as ReactJS, NextJS, Redux, NodeJS, TypeScript, Express, NestJS React Native, Python, and FastAPI. I also have a strong foundation in cloud technologies, containerization, and deployment automation with GitHub Actions, Docker and AWS.</p>
+<div align="left">
+<p>Welcome to my space. I'm Habib, an experienced and versatile Software Engineer with a passion for bringing creative ideas to life. With over 5 years of experience in Software development in frontend, backend, and mobile development, I bring a unique blend of skills to any team I work with.</p>
+
+* 🖥️ **Frontend**: React, Next.js, Vue, TypeScript, TailwindCSS, Shadcn UI, Chakra UI
+* 🖥️ **Backend**: NodeJS, Express, NestJS, Python, FastAPI.
+* 📱 **Mobile**: React Native, Expo
+* 🔧 **State Management**: Zustand, Redux Toolkit, Context API
+* 🛠️ **Tools**: Figma, Docker, Git, Jira, Firebase, AWS
 
 <p>I believe that integrity, hard work, and a passion for delivering high-quality solutions are just as important as technical expertise. Whether working independently or as part of a team, I always strive to bring my best and exceed expectations.</p>
 
@@ -103,16 +108,14 @@
 Stats](https://github-readme-stats.vercel.app/api?username=oyerohabib&count_private=true&show_icons=true&include_all_commits=true)
 ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyerohabib&hide=TeX&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=oyerohabib&color=blue&style=flat-square&label=Profile+Visitors)
+
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ubaydah&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oyerohabib&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="center">⚡Connect With Me On</h3>
 <p align="center">
-  <a href="https://facebook.com/habib.oyero/"
-    ><img
-      alt="Facebook"
-      src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"
-  /></a>
   <a href="https://www.linkedin.com/in/oyerohabib/"
     ><img
       alt="LinkedIn"
