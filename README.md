@@ -29,10 +29,6 @@
     alt="Python"
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
   />
-  <img
-    alt="Dart"
-    src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
-  />
 </p>
 
 <h3 align="center">⚡Tools & Technologies</h3>
@@ -46,20 +42,12 @@
     src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
   />
   <img
-    alt="DjangoREST"
-    src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
-  />
-  <img
     alt="jQuery"
     src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
   />
   <img
     alt="Material UI"
     src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"
-  />
-  <img
-    alt="NPM"
-    src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
   />
   <img
     alt="NodeJS"
@@ -78,14 +66,6 @@
     src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
   />
   <img
-    alt="GitHub"
-    src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-  />
-  <img
-    alt="Apache"
-    src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"
-  />
-  <img
     alt="Nginx"
     src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
   />
@@ -96,22 +76,6 @@
   <img
     alt="Postgres"
     src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-  />
-  <img
-    alt="SQLite"
-    src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-  />
-  <img
-    alt="Linux"
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-  />
-  <img
-    alt="Ubuntu"
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-  />
-  <img
-    alt="Windows 10"
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
   />
 </p>
 
@@ -132,30 +96,6 @@
   <img
     alt="Netlify"
     src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
-  />
-  <img
-    alt="GCP"
-    src="https://img.shields.io/badge/gcp-%23000000.svg?style=for-the-badge&logo=gcp&logoColor=#00C7B7"
-  />
-</p>
-
-<h3 align="center">⚡My Machines</h3>
-<p align="center">
-  <img
-    alt="Jupyter Notebook"
-    src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"
-  />
-  <img
-    alt="PyCharm"
-    src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
-  />
-  <img
-    alt="Sublime Text"
-    src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"
-  />
-  <img
-    alt="Visual Studio Code"
-    src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
   />
 </p>
 
