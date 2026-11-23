@@ -1,6 +1,6 @@
 # Hey, I'm Habib 👋
 
-### Senior Full-Stack Engineer · Product Engineer
+## Senior Full-Stack Engineer · Product Engineer
 
 I build and ship web and mobile products, from the user interface to the APIs and systems behind them. I have **7+ years of experience** working across frontend, backend, and product engineering, with a strong focus on building interfaces that feel right, perform well, and hold up in production.
 
@@ -8,9 +8,10 @@ I enjoy getting involved beyond implementation: understanding the problem, shapi
 
 ## A few things I've worked on
 
-- **ZipWP:** Contributed to core frontend experiences for an AI-powered website builder that has grown to over 1 million users, helping deliver an intuitive website generation experience with real-time progress updates and interactive workflows. [Visit ZipWP](https://zipwp.com/).
-- **MSC:** Led a team of six frontend engineers, working across 10+ ecommerce and supply-chain products. Contributed to frontend architecture, technical decisions, code reviews, and delivery of production applications. [Visit MSC](https://offsite.msc.store/).
-- **Dropbox Web Saver:** Built and published a Chrome extension that lets users save images and files directly from the web to their Dropbox accounts, including batch-saving functionality. [View on Chrome Web Store](https://chromewebstore.google.com/detail/web-saver-for-dropbox/hpgokiookclncalkhobnlpcgfnafjhbi).
+- **[ZipWP](https://zipwp.com/):** Contributed to core frontend experiences for an AI-powered website builder that has grown to over 1 million users, helping deliver an intuitive website generation experience with real-time progress updates and interactive workflows.
+- **[MSC](https://offsite.msc.store/):** Led a team of six frontend engineers, working across 10+ ecommerce and supply-chain products. Contributed to frontend architecture, technical decisions, code reviews, and delivery of production applications.
+- **[Dropbox Web Saver](https://chromewebstore.google.com/detail/web-saver-for-dropbox/hpgokiookclncalkhobnlpcgfnafjhbi):** Built and published a Chrome extension that lets users save images and files directly from the web to their Dropbox accounts, including batch-saving functionality.
+- **[PostHog MCP](https://github.com/oyerohabib/posthog-mcp):** Built and deployed a remote MCP server that enables AI agents to interact with PostHog analytics through 26 tools covering events, users, feature flags, experiments, insights, and cohorts. Implemented WorkOS authentication, PostHog OAuth, secure project linking, and an agent evaluation framework using Gemini and Groq to measure tool-assisted task performance.
 - **Web3 Projects:** Built two blockchain applications: [Bounty Board](https://github.com/oyerohabib/bounty-board), a Solana-based bounty and escrow platform where creators can lock SOL, USDC, or SPL tokens, receive submissions, and pay winners through on-chain smart contracts; and [Multichain Portfolio](https://github.com/oyerohabib/multichain-portfolio), an EVM portfolio application supporting Ethereum, Base, and Optimism, with watch-only and connected-wallet experiences, cross-chain balances, transaction activity, and native/ERC-20 transfers.
 
 ## What I enjoy building
@@ -39,14 +40,13 @@ The tools change from project to project. I'm more interested in choosing the ri
 
 I like being close to both the product and the engineering. I ask questions, communicate trade-offs early, and take ownership of getting things into users' hands. I've worked independently and alongside designers, product managers, backend engineers, and distributed teams, including leading frontend delivery across multiple products.
 
-Outside day-to-day product work, I enjoy playing chess ([find me on Chess.com](https://www.chess.com/member/oyerohabib)), travelling to explore new places, attending tech events, and meeting people from different backgrounds. I'm always open to meeting interesting people, exchanging ideas, learning from other engineers, and contributing to communities around technology.
+Outside day-to-day product work, I enjoy playing [**chess**](https://www.chess.com/member/oyerohabib), travelling to explore new places, attending tech events, and meeting people from different backgrounds. I'm always open to meeting interesting people, exchanging ideas, learning from other engineers, and contributing to communities around technology.
 
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyerohabib&count_private=true&show_icons=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyerohabib&hide=TeX&layout=compact)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oyerohabib&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyerohabib&hide=TeX&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oyerohabib&theme=dark&hide_border=true)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oyerohabib&color=blue&style=flat-square&label=Profile+Visitors" alt="Profile views"/>
