@@ -2,9 +2,9 @@
 
 ## Senior Full-Stack Engineer · Product Engineer
 
-I build and ship web and mobile products, from the user interface to the APIs and systems behind them. I have **7+ years of experience** working across frontend, backend, and product engineering, with a strong focus on building interfaces that feel right, perform well, and hold up in production.
+I have **7+ years of experience** building products across web, mobile, AI, and Web3. My work spans frontend and backend engineering, blockchain development, server configuration, cloud infrastructure, and deployment.
 
-I enjoy getting involved beyond implementation: understanding the problem, shaping the solution, making technical decisions, and seeing the work through to release. I care about the details users notice and the engineering decisions that make a product easier to maintain as it grows.
+I enjoy getting involved beyond implementation: understanding the problem, shaping the solution, making technical decisions, and seeing the work through to release. I care about the details users notice and the engineering decisions that make products reliable and easier to maintain as they grow.
 
 ## A few things I've worked on
 
