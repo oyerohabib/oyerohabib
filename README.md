@@ -1,4 +1,4 @@
-# Hey, I'm Habib 👋
+# Hey, I'm Habib <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
 ## Senior Full-Stack Engineer · Product Engineer
 
